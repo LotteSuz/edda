@@ -1,4 +1,4 @@
-"miltcoup" "oligarchy" "pollib" "parties" "pctvote" "popn" "size" "numelec" "numregim"
+"country" "miltcoup" "oligarchy" "pollib" "parties" "pctvote" "popn" "size" "numelec" "numregim"
 "Benin" 5 7 1 34 45.68 4.6 113 8 3
 "Burkina" 6 13 2 62 17.5 8.8 274 5 3
 "Burundi" 2 13 2 10 34.39 5.3 28 3 3

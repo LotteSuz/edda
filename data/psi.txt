@@ -1,4 +1,4 @@
-"passed" "psi" "gpa"
+"nr" "passed" "psi" "gpa"
 "1" 0 0 2.66
 "2" 0 0 2.89
 "3" 0 0 3.28
